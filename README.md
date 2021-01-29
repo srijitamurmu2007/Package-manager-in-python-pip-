@@ -1,2 +1,2 @@
-# Package-manager-in-python-pip-
-C-100
+# Python_class
+solution C-100
